@@ -46,13 +46,13 @@
 
 <items>
 <items_info> <!-- this is opitonal -->
-      <title>Adryan List </title> 
+      <title>jorge listas </title> 
       <genre>Tv Live</genre>
       <description>: Lista de Canales para el Livestreamspro :</description>
       <thumbnail>http://i.imgur.com/6pvNVON.jpg</thumbnail>
-      <fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
+      <fanart>https://www.dropbox.com/s/uc90b4dgfwogbux/fanart.jpg?dl=0</fanart>
       <date>13.02.2015</date>
-      <cwhiteits>adryan</cwhiteits>
+      <cwhiteits>jorge</cwhiteits>
     </items_info>
 	
 	
